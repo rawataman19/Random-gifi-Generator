@@ -9,6 +9,7 @@ Make sure you have Node.js and npm installed on your machine.
 1. Clone the repository:
    ```bash
    git clone https://github.com/rawataman19/Random-gifi-Generator/
+   ```
 
 bash :
   cd random-giphy-generator
@@ -17,6 +18,7 @@ dependencies:
   
 Usage
 Start the development server:
+npm run start
 
 Open your browser and go to http://localhost:3000 to view the application.
 Features
